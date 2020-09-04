@@ -10,6 +10,7 @@ export const contracts = [
   "ActionWithdrawBatchExchange",
   "ActionPlaceOrderBatchExchangeWithSlippage",
   "ActionUniswapV2Trade",
+  "ActionSubmitTask",
 
   // Conditions
   "ConditionBalance",
